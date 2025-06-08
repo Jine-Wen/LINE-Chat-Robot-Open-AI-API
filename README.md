@@ -124,7 +124,7 @@ if __name__ == '__main__':
 ```
 
 這段代碼是最關鍵的一環 
-- ngrok 幫我把 Colab 本地的 Flask 服務暴露到公網，這樣 LINE Platform 就能把用戶訊息轉發到我的 Colab 上，完全不用租用伺服器，只要 Colab 保持運行就行了！
+- ngrok 幫我把 Colab 本地的 Flask 服務公開，這樣 LINE Platform 就能把用戶訊息轉發到我的 Colab 上，完全不用租用伺服器，只要 Colab 保持運行就行了！
 
 ## 🌟 實用功能
 
